@@ -1,0 +1,34 @@
+# Setup
+title:               Wahyu Zuli Firmanto's Website
+tagline:             
+description:        Wahyu Zuli Firmanto's Personal Website
+url:                 "https://wzfirmanto.github.io"
+paginate:            5
+baseurl: ""# if your site is at the root level
+permalink:           /:categories/:title/
+future: true
+timezone: Asia/Singapore  # or your local timezone
+collections:
+  posts:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# About/contact
+author:
+  name:              Wahyu Zuli Firmanto
+  url:               https://twitter.com/wahdoyu
+  email:             wahyu@u.nus.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
+
