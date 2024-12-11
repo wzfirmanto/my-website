@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Resource-Driven Industrial Policy Affects the Labour Market?
-date: 2024-11-30
+date: 2024-12-11
 categories: portfolio
 description: Policy Impact Evaluation, Resource-Driven Industrial Policy, Difference-in-Difference, R
 ---
