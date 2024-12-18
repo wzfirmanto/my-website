@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Generalist Trap: Why Specialization Matters for New Businesses
+title: "The Generalist Trap: Why Specialization Matters for New Businesses"
 date: 2024-12-18
 categories: blog
-description: Don't try to please everyone
+description: "Don't try to please everyone"
 ---
 
 Two weeks ago, a startup founder came to me with a puzzle: their traditional marketing was working well, but their digital presence was getting zero traction. One look at their website and social media told me everything. They'd fallen into what I call the generalist trap—one of the most common pitfalls I've observed while advising various businesses.
