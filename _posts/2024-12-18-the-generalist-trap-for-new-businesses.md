@@ -18,6 +18,7 @@ Marketing strategists Al Ries and Jack Trout put it best in their book "The 22 I
 - Domino's: Home Delivery 
 - Xerox: Copy
 - Coke: Cola
+  
 This notion shows how trying to sell everything will make your brand forgotten by potential customers.
 
 Another marketing thinker, Seth Godin, stated something similar, "Everyone is not your customer. If you try to please everyone, you'll end up pleasing no one." In his book The Purple Cow, he explains that being a regular brown cow is riskier for business in today's crowded market. We should aim to be remarkable – a purple cow – instead, and it is very difficult to be remarkable when you're trying to be good at everything. "The key to success is to find a position that is both narrow enough to let you be the best in that category and broad enough to be financially viable," he wrote.
