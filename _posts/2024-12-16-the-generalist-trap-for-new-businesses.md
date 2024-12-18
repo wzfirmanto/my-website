@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Generalist Trap: Why Specialization Matters for New Businesses"
-date: 2024-12-18
+date: 2024-12-16
 categories: blog
 description: "Don't try to please everyone"
 ---
