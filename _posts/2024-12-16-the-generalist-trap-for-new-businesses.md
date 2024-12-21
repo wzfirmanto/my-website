@@ -6,6 +6,9 @@ categories: blog
 description: "Don't try to please everyone"
 ---
 
+![Amazon's past positioning as earth's biggedt bookstore](/public/images/amazon-earths-biggest-bookstore.jpeg)
+
+
 Two weeks ago, a startup founder came to me with a puzzle: their traditional marketing was working well, but their digital presence was getting zero traction. One look at their website and social media told me everything. They'd fallen into what I call the generalist trap—one of the most common pitfalls I've observed while advising various businesses.
 
 Even though they had already developed a solid product for a specific niche in their field, their online presence told a different story. Instead of showcasing their specialty, their platforms were cluttered with every possible product they could theoretically sell. This created an immediate credibility problem: to me – and likely to other potential customers – they appeared indistinguishable from their competitors. It raised an obvious question: Why would anyone choose this unknown company over larger, more established brands offering the same broad range of services?
@@ -25,7 +28,6 @@ Another marketing thinker, Seth Godin, stated something similar, "Everyone is no
 
 Look at today's most successful companies: they all began by introducing one specific product before offering others. Tesla entered the automotive market not by competing across all segments, but by focusing solely on high-performance luxury electric vehicles - establishing themselves as EV specialists in a market dominated by traditional automakers. Even now, after they diversified to solar panel and power wall markets, they maintained their core brand identity as EV innovation expert. Amazon, now known as "the everything store," started with a laser focus on being the world's best online bookstore, perfecting its e-commerce model before expanding to other categories. Similarly, Mailchimp built its reputation as an email marketing expert first, and even today, despite offering a full suite of marketing tools including website builders and digital ads, they maintain this specialist positioning that sets them apart from broader marketing platforms. These companies show a clear pattern: establish expertise in one area, build trust and systems around that specialty, and only then gradually expand into broader offerings.
 
-![Amazon's past positioning as earth's biggedt bookstore](/public/images/amazon-earths-biggest-bookstore.jpeg)
 
 While focusing on a specialty means potentially passing up opportunities in the broader market, this targeted approach is more likely to generate actual sales than trying to appeal to everyone but leads to no avail. At least as a specialist, you have a clear value proposition that resonates with your target audience so they will remember you well and recommend your product to their friends. After gaining loyal customers in your specific niche, you can also start recommending other complementing products to them so your business can gradually grow. 
 
