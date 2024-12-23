@@ -23,7 +23,11 @@ permalink: blog/
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% endif %}
-  <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  <span class="page-number">
+  Page {% if paginator.page %}{{ paginator.page }}{% else %}1{% endif %} 
+  of {% if paginator.total_pages %}{{ paginator.total_pages }}{% else %}1{% endif %}
+  </span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% endif %}
