@@ -11,6 +11,8 @@ description: "Don't try to please everyone"
 
 Two weeks ago, a startup founder came to me with a puzzle: their traditional marketing was working well, but their digital presence was getting zero traction. One look at their website and social media told me everything. They'd fallen into what I call the generalist trap—one of the most common pitfalls I've observed while advising various businesses.
 
+<!--more-->
+
 Even though they had already developed a solid product for a specific niche in their field, their online presence told a different story. Instead of showcasing their specialty, their platforms were cluttered with every possible product they could theoretically sell. This created an immediate credibility problem: to me – and likely to other potential customers – they appeared indistinguishable from their competitors. It raised an obvious question: Why would anyone choose this unknown company over larger, more established brands offering the same broad range of services?
 
 This is where the generalist approach becomes a liability. When you're new in the market, you're already fighting an uphill battle for trust. Claiming to do everything as well as industry veterans only makes that battle harder. However, positioning yourself as a specialist in one specific area – especially one where you truly excel – gives potential customers a clear reason to choose you over the bigger players.
