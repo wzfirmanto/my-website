@@ -8,6 +8,8 @@ description: When I visited Singapore for the first time, what struck me the mos
 
 When I visited Singapore for the first time, what struck me the most was how great its urban planning is. As a tiny, densely populated country, I expected to see a big city cramped by concrete blocks with very few trees, but I found something like a small town instead, with plenty of public spaces and greeneries. How did they do that?
 
+<!--more-->
+
 Perhaps the most important fact in this topic is that, in Singapore, the government owns 90% land of the country, an unusually high among market economies which usually owns no more than 30% of land. This high government control over land (>80%) typically appears in countries with strong state control over their economies, like in China and Vietnam. However, there are a few market-oriented countries that the government control most of the land, such as Hong Kong (100%) and Israel (around 90%).
 
 Yes, it is only fair to compare Singapore with Hong Kong, as they both are city-states with limited land area, while other market economies like the US, UK, or Australia have huge areas and even though Israel is smaller than those three countries, it owns land for its Zionist agenda. However, Hong Kong's full control over its land is inherited from the British, while Singapore deliberately bought theirs to ease development plan. 
