@@ -3,7 +3,6 @@ title:               Wahyu Zuli Firmanto's Website
 tagline:             
 description:        Wahyu Zuli Firmanto's Personal Website
 url:                 "https://wzfirmanto.github.io"
-paginate:            5
 baseurl: ""# if your site is at the root level
 permalink:           /:categories/:title/
 future: true
