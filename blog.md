@@ -4,7 +4,7 @@ title: Blog
 permalink: blog/
 ---
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% unless post.categories contains "portfolio" %}
       <div class="post">
         <h1 class="post-title">
